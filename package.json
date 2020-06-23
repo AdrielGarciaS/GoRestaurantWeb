@@ -48,6 +48,7 @@
   },
   "scripts": {
     "start": "react-app-rewired start",
+    "server": "json-server server.json -p 3333",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
     "eject": "react-scripts eject"
